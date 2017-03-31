@@ -1,8 +1,5 @@
-					{
-
+{
 module AlexTokens where
-
-
 }
 
 %wrapper "basic"
